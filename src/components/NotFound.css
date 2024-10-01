@@ -1,0 +1,47 @@
+/* NotFound.css */
+
+.notFound {
+    max-width: 600px;
+    margin: 100px auto;
+    padding: 40px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f8f9fa;
+  }
+  
+  .notFound h1 {
+    font-size: 3rem;
+    color: #dc3545; 
+    margin-bottom: 20px;
+  }
+  
+  .notFound p {
+    font-size: 1.25rem;
+    color: #6c757d; 
+    margin-bottom: 30px;
+  }
+  
+  .notFound .btn {
+    font-size: 1rem;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+  
+  @media (max-width: 768px) {
+    .notFound {
+      padding: 20px;
+    }
+  
+    .notFound h1 {
+      font-size: 2rem;
+    }
+  
+    .notFound p {
+      font-size: 1rem;
+    }
+  
+    .notFound .btn {
+      font-size: 0.875rem;
+    }
+  }
+  

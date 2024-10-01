@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "7bba",
+      "email": "eyad123@email.com",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": "166b",
+      "email": "eyad1@email.com",
+      "password": "123456",
+      "role": "admin"
+    },
+    {
+      "id": "7cf3",
+      "email": "test2@email.com",
+      "password": "789456",
+      "role": "admin"
+    },
+    {
+      "id": "3b60",
+      "email": "eyademad@email.com",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": "bcea",
+      "email": "test55@ss.com",
+      "password": "123456",
+      "role": "user"
+    }
+  ]
+}
